@@ -1,35 +1,39 @@
 <body>
-<div id="header-wrapper">
-	<div id="header">
-		<div id="menu">
-			<ul>
-				<li class="current_page_item"><a href="http://tbp.mccormick.northwestern.edu">Home</a></li>
-				<li><a href="http://tbp.mccormick.northwestern.edu/membership.php">Membership</a></li>
-				<li><a href="http://tbp.mccormick.northwestern.edu/officers.php">Officers</a></li>
-				<li><a href="http://tbp.mccormick.northwestern.edu/events.php">Events</a></li>
-			</ul>
-		</div>
-		<!-- end #menu -->
-		<div id="search">
-			<form method="get" action="">
-				<fieldset>
-				<input type="text" name="s" id="search-text" size="15" />
-				<input type="submit" id="search-submit" value="GO" />
-				</fieldset>
-			</form>
-		</div>
-		<!-- end #search -->
-	</div>
-</div>
-<!-- end #header -->
-<!-- end #header-wrapper -->
-<div id="logo">
-	<h1><a href="#">Tau beta pi </a></h1>
-	<p><a href="http://tbp.mccormick.northwestern.edu/">Northwestern University</a>,  IL Gamma</p>
-	<div id="banner"><a href="#"><img src="images/NU_Logo_white_small.png" alt="" /></a></div>
-</div>
-<div id="wrapper">
-	<div id="page">
-		<div id="page-bgtop">
-			<hr />
-			<!-- end #logo -->
+  <div class="fixed sticky">
+    <nav class="top-bar" data-topbar role="navigation">
+      <ul class="title-area">
+        <li class="name">
+          <h1><a href="index.php">NU TBP</a></h1>
+        </li>
+         <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+      </ul>
+
+      <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+          <li><a href="index.php">Home</a></li>
+          <li class="has-dropdown">
+            <a href="index.php#about">About</a>
+            <ul class="dropdown">
+              <li><a href="currentOfficers.php">Current Officers</a></li>
+              <li><a href="pastOfficers.php">Past Officers</a></li>
+              <li><a href="advisors.php">Advisors</a></li>
+              <!--<li><a href="constitution.php">Constitution</a></li>-->
+              <li><a href="photo.php">Photo Gallery</a></li>
+            </ul>
+          </li>
+          <li class="has-dropdown">
+            <a href="members.php">Members</a>
+            <ul class="dropdown">
+              <li><a href="members.php">Current Members</a></li>
+              <li><a href="eligibles.php">Eligibles</a></li>
+            </ul>
+          </li>
+          <li><a href="events.php">Events</a></li>
+          <li><a href="contact.php">Contact</a></li>
+        </ul>
+
+      </section>
+    </nav>
+  </div>

@@ -1,0 +1,111 @@
+/* BODY */
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* NAV */
+nav a:hover {
+	background-color: black;
+}
+.top-bar-section a:hover {
+	background-color: black !important;
+
+}
+
+/* MAIN */
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	color: #571963 !important;
+}
+.main {
+	font-family: 'Open Sans', sans-serif;
+}
+.main a {
+	color: #571963 !important;
+}
+.main a:hover {
+	color: #a986af !important;
+}
+.about-tbp {
+	text-align: center;
+	padding: 0 5%;
+}
+.current-officers {
+	width: 80%;
+	margin: 0 auto;
+}
+
+/* ELIGIBLES */
+.eligibles a {
+	color: #571963 !important;
+}
+.eligibles a:hover {
+	color: #a986af !important;
+}
+
+/* CURRENT OFFICERS & ADVISORS THUMBNAILS */
+.current-officers, .advisors {
+	width: 80%;
+	margin: 0 auto;
+}
+.panel p {
+	text-align: center;
+	font-size: 14px;
+	margin: 1px 0;
+}
+.panel a {
+	color:#571963;
+	font-size: 20px;
+}
+.panel a:hover {
+	color: #a986af !important;
+}
+
+/* PAST OFFICERS */
+.pastOfficers h3, h5 {
+	text-align: left;
+}
+.pastOfficers {
+	width: 80%;
+	margin: 0 auto;
+}
+
+/* MEMBERS */
+.members-list h3 {
+	text-align: left;
+}
+.members-list li {
+	color: black !important;
+}
+
+/* EVENTS */
+.events h4 {
+	color:#571963; 
+}
+.events p {
+	text-align: center;
+}
+
+/* CONTACT */
+.contact a {
+	color: #571963 !important;
+}
+.contact a:hover {
+	color: #a986af !important;
+}
+
+/* FOOTER */
+.footer p, li {
+	font-size: 12px !important;
+	color: #571963 !important;
+	font-family: 'Open Sans', sans-serif;
+}
+.footer-link {
+	color: #571963 !important;
+}
+.footer-link:hover {
+	color: #a986af !important;
+}
