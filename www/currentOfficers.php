@@ -36,7 +36,7 @@
 		          </div>
 	          </div>
 	          <div class="large-4 medium-4 small-12 columns">
-		          <img src="http://placehold.it/500x400&amp;text=Thumbnail">
+		          <img src="img/people/BryannaYeh.jpg">
 		          <div class="panel">
 		          	<p><a href="mailto:bryannayeh2016@u.northwestern.edu"><b>Bryanna Yeh</b></a></p>
 		          	<p><b>Position: Corresponding Secretary</b></p>

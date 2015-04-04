@@ -9,56 +9,37 @@
 			<h1>Members</h1>
 			<br>
 			<div class="row">
-				<div class="large-4 small-6 columns">
-					<?php include "members/2015members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2014members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2013members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2012members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2011members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2010members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2009members.php" ?>
-				</div>
-			</div>
+				<?php
+					ini_set('display_errors', 'On');
 
-			<!--<div class="row">
-				<div class="large-4 small-6 columns">
-					<?php include "members/2015members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2014members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2013members.php" ?>
-				</div>
+					// Reads all member txt files
+					$filenames = array_reverse(glob("members/*.txt"));
+					
+					foreach($filenames as $filename) {
+						
+						// Gets names from 1 file
+						$file = fopen($filename, "r");
+						while (!feof($file)) {
+							$members[] = fgets($file);
+						}
+						fclose($file);
+
+						// Alphabetizes member names
+						sort($members);
+
+						// HTML output
+						echo '<div class="large-4 small-6 columns"><div class="members-list">';
+						if(preg_match('#(\d+)#', $filename, $matches))
+							echo "<h3>Class of " . $matches[1] . "</h3><ul>";
+						for ($i=0; $i<(count($members)); $i++) {
+							echo "<li>" . $members[$i] . "</li>";
+						}
+						echo '</ul><br></div></div>';
+						unset($members);
+						
+					}
+				?>
 			</div>
-			<div class="row">
-				<div class="large-4 small-6 columns">
-					<?php include "members/2012members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2011members.php" ?>
-				</div>
-				<div class="large-4 small-6 columns">
-					<?php include "members/2010members.php" ?>
-				</div>
-			</div>
-			<div class="row">
-				<div class="large-4 small-6 columns">
-					<?php include "members/2009members.php" ?>
-				</div>
-			</div>-->
 		</div>
 	</div>
 </div>
