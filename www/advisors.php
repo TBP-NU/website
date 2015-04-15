@@ -19,7 +19,7 @@
 		          </div>
 	          </div>
 	          <div class="large-4 medium-4 small-12 columns">
-		          <img src="http://placehold.it/500x400&amp;text=Thumbnail">
+		          <img src="img/people/ProfRondinelli.jpg">
 		          <div class="panel">
 		          	<p><a href="mailto:jrondinelli@northwestern.edu?subject=Tau Beta Pi Inquiry"><b>James Rondinelli</b></a></p>
 		          	<p><b>Assistant Professor</b></p>
@@ -48,8 +48,8 @@
 		          <img src="http://placehold.it/500x400&amp;text=Thumbnail">
 		          <div class="panel">
 		          	<p><a href="mailto:clark.sarah315@gmail.com?subject=Tau Beta Pi Inquiry"><b>Sarah Clark</b></a></p>
-		          	<p><b>Graduate Student</b></p>
-		          	<p></p>
+		          	<p><b>PhD Candidate</b></p>
+		          	<p>Department of Materials Science & Engineering</p>
 		          </div>
 	          </div>
 	          <div class="large-4 medium-4 small-12 columns">
@@ -57,7 +57,7 @@
 		          <div class="panel">
 		          	<p><a href="mailto:paragguptaphd@gmail.com?subject=Tau Beta Pi Inquiry"><b>Parag Gupta </b></a></p>
 		          	<p><b>PhD Candidate</b></p>
-		          	<p></p>
+		          	<p>Department of Mechanical Engineering</p>
 		          </div>
 	          </div>
 	          <br>
