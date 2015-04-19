@@ -37,7 +37,13 @@ h1 {
 	width: 80%;
 	margin: 0 auto;
 }
-
+.tbpLogo, .NULogo {
+	height: 150px;
+	padding: 5px 10px;
+}
+.logos {
+	text-align: center;
+}
 /* ELIGIBLES */
 .eligibles a {
 	color: #571963 !important;
