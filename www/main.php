@@ -1,10 +1,14 @@
 <div class="main">
   <div class="row">
     <div class="large-12 columns">
-
       <div class="row maintitle">
         <br>
-        <h1> NORTHWESTERN <span style="color:black">TAU BETA PI </span></h1>
+        <div class="row logos">
+          <img class="NULogo" src="img/NU_logo.png" /> 
+          <img class="tbpLogo" src="img/TBP_logo.gif" />
+        </div>
+        <br>
+        <h1> NORTHWESTERN <span style="color:#0E63B3;">TAU BETA PI </span></h1>
         <h3>Illinois Gamma Chapter </h3>
         <br>
       </div>
@@ -38,7 +42,6 @@
             <p></p><!--for space instead of br-->
             <p>Visit the official national <a href="http://www.tbp.org">Tau Beta Pi website</a>!</p>
           </div>
-          <br>
         </div>
       </div>
 
