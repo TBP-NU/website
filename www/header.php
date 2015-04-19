@@ -26,11 +26,13 @@
           <li class="has-dropdown">
             <a href="members.php">Members</a>
             <ul class="dropdown">
+              <li><a href="memberReq.php">Requirements</a></li>
               <li><a href="members.php">Current Members</a></li>
               <li><a href="eligibles.php">Eligibles</a></li>
             </ul>
           </li>
           <li><a href="events.php">Events</a></li>
+          <li><a href="resources.php">Resources</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
 
