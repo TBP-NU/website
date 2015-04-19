@@ -37,11 +37,6 @@
             <p>At the core of the Society lie the qualities of distinguished scholarship and exemplary character, and for the past 70 years, the members of Illinois Gamma have not failed to confer honor upon their Alma Mater. Northwestern has produced leaders in engineering, government, the arts and sciences, and academia, to name a few, and the Northwestern Chapter of TBP exists to bring these like-minded individuals together to create a sum that is greater than the whole of its parts. One of the results has been to organize advising sessions and firesides inside dorms to better inform undergraduates in the process of selecting majors. And there’s much more to go!</p>
             <p></p><!--for space instead of br-->
             <p>Visit the official national <a href="http://www.tbp.org">Tau Beta Pi website</a>!</p>
-            <br>
-            <p>Watch the video below to learn more about Tau Beta Pi (made by the national headquarter)</p>
-            <video controls autoplay name="media" style="max-width: 100%; max-height: 100%;">
-              <source src="http://www.tbp.org/media/CloserLook.mpg" type="video/mpeg">
-            </video>
           </div>
           <br>
         </div>
