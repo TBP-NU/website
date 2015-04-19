@@ -14,7 +14,7 @@ nav a:hover {
 
 /* MAIN */
 h1, h2, h3, h4, h5, h6 {
-	text-align: center;
+	text-align: center !important;
 	font-family: 'Open Sans', sans-serif;
 }
 h1 {
@@ -73,12 +73,27 @@ h1 {
 	margin: 0 auto;
 }
 
+/*MEMBER REQ*/
+.memberReq h4 {
+	text-align: left !important;
+	color: #571963 !important;
+}
+.memberReq ul li {
+	color: black !important;
+	font-size: 16px !important;
+}
+
 /* MEMBERS */
 .members-list h3 {
-	text-align: left;
+	text-align: left !important;
 }
 .members-list li {
 	color: black !important;
+}
+
+/*ELIGIBLES*/
+.eligibles h3 {
+	text-align: left !important;
 }
 
 /* EVENTS */
@@ -87,6 +102,11 @@ h1 {
 }
 .events p {
 	text-align: center;
+}
+
+/*RESOURCES*/
+.resources h3 {
+	text-align: left !important;
 }
 
 /* CONTACT */
