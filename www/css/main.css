@@ -2,10 +2,20 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 }
+body a {
+	color: #571963 !important;
+}
+body a:hover {
+	color: #a986af !important;
+}
 
 /* NAV */
+nav a {
+	color: white !important;
+}
 nav a:hover {
-	background-color: black;
+	background-color: black !important;
+	color: white !important;
 }
 .top-bar-section a:hover {
 	background-color: black !important;
@@ -23,12 +33,6 @@ h1 {
 .main {
 	font-family: 'Open Sans', sans-serif;
 }
-.main a {
-	color: #571963 !important;
-}
-.main a:hover {
-	color: #a986af !important;
-}
 .about-tbp {
 	text-align: center;
 	padding: 0 5%;
@@ -45,12 +49,6 @@ h1 {
 	text-align: center;
 }
 /* ELIGIBLES */
-.eligibles a {
-	color: #571963 !important;
-}
-.eligibles a:hover {
-	color: #a986af !important;
-}
 
 /* CURRENT OFFICERS & ADVISORS THUMBNAILS */
 .current-officers, .advisors {
@@ -63,11 +61,7 @@ h1 {
 	margin: 1px 0;
 }
 .panel a {
-	color:#571963;
 	font-size: 20px;
-}
-.panel a:hover {
-	color: #a986af !important;
 }
 
 /* PAST OFFICERS */
@@ -114,14 +108,11 @@ h1 {
 .resources h3 {
 	text-align: left !important;
 }
+.resources li {
+	font-size: 14px !important;
+}
 
 /* CONTACT */
-.contact a {
-	color: #571963 !important;
-}
-.contact a:hover {
-	color: #a986af !important;
-}
 
 /* FOOTER */
 .footer p, li {
