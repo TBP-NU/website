@@ -34,6 +34,7 @@
 				<li>If you successfully fulfill these requirements, you receive your graduation stole & cord for FREE ($40 otherwise; getting the graduation stole & cord is optional.)</li>
 			</ul>
 			<br>
+			<p>If you are a member of NU TBP and you want to check the status of your requirements, click <a href="https://docs.google.com/spreadsheets/d/1YIVuUXeSeEplbthLt_jQc0833hRIOryWvcB3975iTCA/edit?usp=sharing">here</a></p>
 		</div>
 	</div>
 </div>
