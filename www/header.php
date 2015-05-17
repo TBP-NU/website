@@ -31,7 +31,12 @@
               <li><a href="eligibles.php">Eligibles</a></li>
             </ul>
           </li>
-          <li><a href="events.php">Events</a></li>
+          <li class="has-dropdown">
+            <a href="events.php">Events</a>
+            <ul class="dropdown">
+              <li><a href="eventsCal.php">Calendar</a></li>
+            </ul>
+          </li>
           <li><a href="resources.php">Resources</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>

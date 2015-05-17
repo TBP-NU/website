@@ -27,7 +27,7 @@
 		          </div>
 	          </div>
 	          <div class="large-4 medium-4 small-12 columns">
-		          <img src="http://placehold.it/500x400&amp;text=Thumbnail">
+		          <img src="img/people/ProfShultz.jpg">
 		          <div class="panel">
 		          	<p><a href="mailto:jschultz@northwestern.edu?subject=Tau Beta Pi Inquiry"><b>Jarvis Schultz</b></a></p>
 		          	<p><b>Lecturer</b></p>

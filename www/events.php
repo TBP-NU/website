@@ -9,12 +9,9 @@
 			<h1>Events</h1>
 			<br>
 		</div>
-		<div class="responsive-iframe-container">
-			<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ccccff&amp;src=u.northwestern.edu_ii9oo4no2omai0it3fp41afq40%40group.calendar.google.com&amp;color=%235229A3&amp;src=tbp%40u.northwestern.edu&amp;color=%232952A3&amp;ctz=America%2FChicago" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
-		</div>
 	</div>
 	
-	<!-- <div class="row">
+	<div class="row">
 		<div class="large-6 sm-12 columns">
 			<h2><b><u>Private TBP Events</u></b></h2>
 			<div class="private-event">
@@ -27,16 +24,25 @@
 			</div>
 			<div class="private-event">
 				<h4>Spring Initiation</h4>
-				<p>Saturday, May 16th | TBD | TBD </p>
+				<p>Saturday, May 16th | 5:30 PM | Tech A110 </p>
+			</div>
+			<div class="private-event">
+				<h4>Study Hours</h4>
+				<p>Weekly | Check the newsletter for details!</p>
 			</div>
 		</div>
 		<div class="large-6 sm-12 columns">
 			<h2><b><u>Open TBP Events</u></b></h2>
 			<div class="open-event">
-				<h4>Coming Soon!</h4>
+				<h4>DTC User Testing Workshop</h4>
+				<p>Saturday, May 17rd | 2-6 PM | Ford ITW </p>
+			</div>
+			<div class="open-event">
+				<h4>Alumni Networking Brunch</h4>
+				<p>Saturday, May 23rd | 11AM | Seabury 250 </p>
 			</div>
 		</div>
-	</div> -->
+	</div>
 </div>
 
 <?php
