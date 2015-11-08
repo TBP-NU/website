@@ -49,7 +49,7 @@
         <div class="large-12">
           <hr><br>
           <p>Check out our upcoming events <a href="events.php">here</a></p>
-          <p>Find more information about the eligibles <a href="eligibles.php">here</a></p>
+          <p>Find more information about eligibility <a href="eligibles.php">here</a></p>
         </div>
       </div>
 </div>
