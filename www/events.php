@@ -40,6 +40,10 @@
 		<div class="large-6 sm-12 columns">
 			<h2><b><u>Open TBP Events</u></b></h2>
 			<div class="open-event">
+				<h4>Campus Kitchens</h4>
+				<p>Saturday, November 21nd | 11 AM to 1 PM | Allison Dining</p>
+			</div>
+			<div class="open-event">
 				<h4>Alumni Networking Brunch</h4>
 				<p>Sunday, November 22nd | 11 AM to 1 PM | <a href="https://goo.gl/maps/K75e6qxnEEv">John Evans Center</a></p>
 			</div>

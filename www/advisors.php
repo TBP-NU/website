@@ -48,7 +48,7 @@
 		          <img src="http://placehold.it/500x400&amp;text=Thumbnail">
 		          <div class="panel">
 		          	<p><a href="#"><b>Ricardo Komai</b></a></p>
-		          	<p><b>PhD Candidate</b></p>
+		          	<p><b>Postdoctoral Fellow</b></p>
 		          	<p>Department of Materials Science & Engineering</p>
 		          </div>
 	          </div>
@@ -61,7 +61,7 @@
 		          </div>
 	          </div>
 	        </div>
-<!-- 	        <div class="row"> 
+	        <div class="row"> 
 	          <div class="large-4 medium-4 small-12 columns">
 		          <img src="img/people/ParagGupta.jpg">
 		          <div class="panel">
@@ -71,7 +71,7 @@
 		          </div>
 	          </div>
 	          <br>
-	        </div> -->
+	        </div>
         </div>
 	</div>
 </div>
