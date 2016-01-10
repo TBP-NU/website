@@ -6,17 +6,53 @@
 	<div class="row">
     	<div class="large-12">
 			<br>
-			<h1>Events</h1>
+			<h1>Winter 2016 Events</h1>
 			<br>
 		</div>
 	</div>
-	
+	<div class="row">
+		<div class="large-6 sm-12 columns">
+			<h2><b><u>Private TBP Events</u></b></h2>
+			<div class="private-event">
+				<h4>Winter General Meeting</h4>
+				<p>Tuesday, January 12th | 8 PM | Tech LR5 </p>
+			</div>
+			<div class="private-event">
+				<h4>Study Hours</h4>
+				<p>Monday, January 25th | 6 to 8 PM | TBD </p>
+			</div>
+			<div class="private-event">
+				<h4>Ice Skating</h4>
+				<p>February TBD | Norris </p>
+			</div>
+		</div>
+		<div class="large-6 sm-12 columns">
+			<h2><b><u>Open TBP Events</u></b></h2>
+			<div class="open-event">
+				<h4>Alumni Networking Event</h4>
+				<p>Saturday, February 20th | TBD | <a href="https://goo.gl/maps/K75e6qxnEEv">John Evans Center</a></p>
+			</div>
+			<div class="open-event">
+				<h4>2nd Annual Pi Day Run!</h4>
+				<p>Saturday, March 10th | NU Lakefill</p>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="row">
+    	<div class="large-12">
+			<br>
+			<h1>Fall 2015 Events</h1>
+			<br>
+		</div>
+	</div>
 	<div class="row">
 		<div class="large-6 sm-12 columns">
 			<h2><b><u>Private TBP Events</u></b></h2>
 			<div class="private-event">
 				<h4>Fall General Meeting</h4>
-				<p>Thursday, October 1st | 8 PM | LR5 </p>
+				<p>Thursday, October 1st | 8 PM | Tech LR5 </p>
 			</div>
 			<div class="private-event">
 				<h4>National Convention</h4>
@@ -24,7 +60,7 @@
 			</div>
 			<div class="private-event">
 				<h4>Study Hours</h4>
-				<p>Wednesday, November 11th | 5 to 7 PM | L158 </p>
+				<p>Wednesday, November 11th | 5 to 7 PM | Tech L158 </p>
 			</div>
 			<div class="private-event">
 				<h4>Bent Polishing Sessions</h4>
@@ -34,11 +70,15 @@
 			</div>
 			<div class="private-event">
 				<h4>Fall Initiation</h4>
-				<p>Friday, December 4th | 5:30 PM | LR2 </p>
+				<p>Friday, December 4th | 5:30 PM | Tech LR2 </p>
 			</div>
 		</div>
 		<div class="large-6 sm-12 columns">
 			<h2><b><u>Open TBP Events</u></b></h2>
+			<div class="open-event">
+				<h4>Blaze Pizza Fundraiser</h4>
+				<p>Friday, November 13th | 4:30 PM to 7:30 PM | <a href="https://goo.gl/maps/xdMky7xLzpu">Blaze Pizza</a>
+			</div>
 			<div class="open-event">
 				<h4>Campus Kitchens</h4>
 				<p>Saturday, November 21nd | 11 AM to 1 PM | Allison Dining</p>
@@ -49,7 +89,7 @@
 			</div>
 			<div class="open-event">
 				<h4>Tired Engineers Day</h4>
-				<p>Wednesday, December 4th | All Day | Tech</p>
+				<p>Tuesday, December 1st | All Day | Tech</p>
 			</div>
 		</div>
 	</div>

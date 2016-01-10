@@ -34,9 +34,15 @@
 						for ($i=0; $i<(count($members)); $i++) {
 							echo "<li>" . $members[$i] . "</li>";
 						}
-						echo '</ul><br></div></div>';
-						unset($members);
+						echo '</ul>';
 						
+						// Blank lines to make even lists for formatting
+						$blanks = 50-count($members);
+						for ($j=0; $j<$blanks; $j++) {
+							echo '<br>';
+						}
+						echo '</div></div>';
+						unset($members);
 					}
 				?>
 			</div>

@@ -27,6 +27,7 @@
             <a href="members.php">Members</a>
             <ul class="dropdown">
               <li><a href="memberReq.php">Requirements</a></li>
+              <li><a href="https://docs.google.com/a/u.northwestern.edu/spreadsheets/d/1LGiRjxlkY0PtRKILyEeO19qHelo9UdVzK9P4AY3mNCM/edit?usp=sharing">Requirements Checklist</a></li>
               <li><a href="members.php">Current Members</a></li>
               <li><a href="eligibles.php">Eligibility</a></li>
             </ul>
