@@ -20,25 +20,30 @@
 			kind: 'picasa',
 			userID: '103493325795015324907',
 			// display albums with keywords
-			whiteList: '2015|Bent',
+			whiteList: '2015|2016',
 
 			// for otpions, see: http://nanogallery.brisbois.fr/#documentation
-			thumbnailWidth: '200C',
-			thumbnailHeight: '200C',
+			colorScheme:'none',
+			thumbnailWidth: 200,
+			thumbnailHeight: 160,
 			thubmnailGutterWidth: 0,
 			thubnailGutterHeight: 0,
 			thumbnailHoverEffect: [
-				{ name: 'labelAppear75', duration: 300 },
-				{ name: 'scale120', duration: 300 },
+                { name: 'borderLighter', duration: 300, durationBack: 200, delay: 200 }
 			],
+			i18n: {
+				thumbnailImageDescription: 'View Photo',
+				thumbnailAlbumDescription: 'Open Album'
+			},
 			thumbnailLabel: {
-				position:'overImageOnBottom',
+				position:'onBottom',
 				align: 'center',
 				display: true,
 				displayDescription: false,
-				hideIcons: false
+				hideIcons: true
 			},
-			paginationMaxLinesPerPage: 3
+			paginationMaxLinesPerPage: 4,
+			thumbnailLazyLoad: true
 		});
 	// });
 </script>
