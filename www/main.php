@@ -12,6 +12,14 @@
         <h3>Illinois Gamma Chapter </h3>
         <br>
       </div>
+
+      <a href="piDayRun.php">
+        <div class="panel callout">
+          <h4><b><span style="color:#571963;"> ANNOUNCING: Pi Day Run 2016! </span></b></h4>
+          <h5> Saturday, March 12th @ NU Lakefill </h5>
+          <i><p>&pi; &pi; &pi; &bull; Click to find out more &bull; &pi; &pi; &pi;</p></i>
+        </div>
+      </a>
     
       <div class="row">
         <div class="large-12 hide-for-small">
@@ -28,7 +36,6 @@
           <img src="img/main-mobile.jpg">
         </div>
       </div><br>
-      
 
       <a name="about"></a>
       <div class="row">

@@ -33,7 +33,7 @@
 				<p>Saturday, February 20th | TBD | <a href="https://goo.gl/maps/K75e6qxnEEv">John Evans Center</a></p>
 			</div>
 			<div class="open-event">
-				<h4>2nd Annual Pi Day Run!</h4>
+				<h4><a href="piDayRun.php">2nd Annual Pi Day Run!</a></h4>
 				<p>Saturday, March 10th | NU Lakefill</p>
 			</div>
 		</div>

@@ -128,7 +128,6 @@ h1 {
 }
 
 /* Responsive iFrame */
- 
 .responsive-iframe-container {
     position: relative;
     padding-bottom: 56.25%;
@@ -146,3 +145,9 @@ h1 {
     width: 100%;
     height: 100%;
 }
+
+/* PI DAY */
+.center {
+	text-align: center;	
+}
+
