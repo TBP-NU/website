@@ -19,7 +19,7 @@
 			</div>
 			<div class="private-event">
 				<h4>Study Hours</h4>
-				<p>Monday, January 25th | 6 to 8 PM | TBD </p>
+				<p>Monday, January 25th | 6 to 8 PM | Tech L211 </p>
 			</div>
 			<div class="private-event">
 				<h4>Ice Skating</h4>
@@ -34,7 +34,7 @@
 			</div>
 			<div class="open-event">
 				<h4><a href="piDayRun.php">2nd Annual Pi Day Run!</a></h4>
-				<p>Saturday, March 10th | NU Lakefill</p>
+				<p>Saturday, March 10th | <a href="https://goo.gl/maps/Ldi72QAHMyw">NU Lakefill</a></p>
 			</div>
 		</div>
 	</div>
