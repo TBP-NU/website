@@ -13,7 +13,7 @@
         <!-- Right Nav Section -->
         <ul class="right">
           <li><a href="index.php">Home</a></li>
-          <li><a href="piDayRun.php">Pi Mile Run</a></li>
+          <li><a href="piDayRun.php">Pi Day Run</a></li>
           <li class="has-dropdown">
             <a href="index.php#about">About</a>
             <ul class="dropdown">

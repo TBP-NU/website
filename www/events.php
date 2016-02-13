@@ -19,22 +19,22 @@
 			</div>
 			<div class="private-event">
 				<h4>Study Hours</h4>
-				<p>Monday, January 25th | 6 to 8 PM | Tech L211 </p>
+				<p>Monday, January 25th | 6 PM to 8 PM | Tech L211 </p>
 			</div>
 			<div class="private-event">
-				<h4>Ice Skating</h4>
-				<p>February TBD | Norris </p>
+				<h4>Board Game Night</h4>
+				<p>Friday, February 13th | See newsletter for details </p>
 			</div>
 		</div>
 		<div class="large-6 sm-12 columns">
 			<h2><b><u>Open TBP Events</u></b></h2>
 			<div class="open-event">
 				<h4>Alumni Networking Event</h4>
-				<p>Saturday, February 20th | TBD | <a href="https://goo.gl/maps/K75e6qxnEEv">John Evans Center</a></p>
+				<p>Saturday, February 20th | 11 AM to 2 PM | <a href="https://goo.gl/maps/K75e6qxnEEv">John Evans Center</a></p>
 			</div>
 			<div class="open-event">
 				<h4><a href="piDayRun.php">2nd Annual Pi Day Run!</a></h4>
-				<p>Saturday, March 10th | <a href="https://goo.gl/maps/Ldi72QAHMyw">NU Lakefill</a></p>
+				<p>Saturday, March 10th | 9 AM | <a href="https://goo.gl/maps/Ldi72QAHMyw">NU Lakefill</a></p>
 			</div>
 		</div>
 	</div>
