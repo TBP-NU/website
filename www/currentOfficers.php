@@ -67,7 +67,40 @@
 		          	<p>(Class of '17)</p>
 		          </div>
 	          </div>
-        </div>
+	        </div>
+	        <div class="row">
+	          <h1>Junior Exec</h1>
+	          <div class="large-4 medium-4 small-12 columns">
+	          	<div class="panel">
+	          		<p><a href="mailto:JimmyDing2017@u.northwestern.edu"><b>Jimmy Ding</b></a></p>
+	          		<p>Mechanical Engineering</p>
+	          		<p>(Class of '17)</p>
+	          	</div>
+	          </div>
+	          <div class="large-4 medium-4 small-12 columns">
+	          	<div class="panel">
+	          		<p><a href="mailto:ElizabethMcTighe2017@u.northwestern.edu"><b>Elizabeth McTighe</b></a></p>
+	          		<p>Manufacturing &amp; Design Engineering</p>
+	          		<p>(Class of '17)</p>
+	          	</div>
+	          </div>
+	          <div class="large-4 medium-4 small-12 columns">
+	          	<div class="panel">
+	          		<p><a href="mailto:AnnKu2017@u.northwestern.edu"><b>Ann Ku</b></a></p>
+	          		<p>Industrial Engineering</p>
+	          		<p>(Class of '17)</p>
+	          	</div>
+	          </div>
+	        </div>
+	      	<div class="row">
+	          <div class="large-4 medium-4 small-12 columns">
+	          	<div class="panel">
+	          		<p><a href="mailto:HershAgarwal2017@u.northwestern.edu"><b>Hersh Agarwal</b></a></p>
+	          		<p>Manufacturing &amp; Design Engineering</p>
+	          		<p>(Class of '17)</p>
+	          	</div>
+	          </div>
+        	</div>
 
     	</div>
 	</div>

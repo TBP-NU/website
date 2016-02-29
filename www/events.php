@@ -34,7 +34,7 @@
 			</div>
 			<div class="open-event">
 				<h4><a href="piDayRun.php">2nd Annual Pi Day Run!</a></h4>
-				<p>Saturday, March 10th | 9 AM | <a href="https://goo.gl/maps/Ldi72QAHMyw">NU Lakefill</a></p>
+				<p>Saturday, March 10th | 8:30 AM | <a href="https://www.google.com/maps/dir//42.0570501,-87.6705347/@42.0548043,-87.6765142,15.72z/data=!4m2!4m1!3e2">NU Lakefill</a></p>
 			</div>
 		</div>
 	</div>
