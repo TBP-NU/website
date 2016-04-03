@@ -3,7 +3,7 @@
             <div class="row">
  
               <div class="large-6 columns">
-                  <p>©Tau Beta Pi, Northwestern University (Last Updated 11/07/2015)</p>
+                  <p>©Tau Beta Pi, Northwestern University (Last Updated 4/2/2016)</p>
               </div>
  
               <div class="large-6 small-12 columns">

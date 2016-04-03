@@ -7,7 +7,7 @@
     	<div class="large-12 columns">
 			<br>
 			<h1>Current Officers</h1>
-			<h4>2015-2016</h4>
+			<h4>2016-2017</h4>
 			<br>
 			<!--image size = 500x400-->
 	        
