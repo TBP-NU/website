@@ -13,12 +13,12 @@
         <br>
       </div>
 
-      <a href="piDayRun.php">
+      <<!-- a href="piDayRun.php">
         <div class="panel callout">
           <h4><b><span style="color:#571963;"> ANNOUNCING: Pi Day Run 2016! </span></b></h4>
           <h5> Saturday, March 12th @ NU Lakefill </h5>
           <i><p>&pi; &pi; &pi; &bull; Click to find out more &bull; &pi; &pi; &pi;</p></i>
-        </div>
+        </div> -->
       </a>
     
       <div class="row">

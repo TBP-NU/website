@@ -13,14 +13,14 @@
         <!-- Right Nav Section -->
         <ul class="right">
           <li><a href="index.php">Home</a></li>
-          <li class="has-dropdown">
+          <!-- <li class="has-dropdown">
             <a href="piDayRun.php">Pi Day Run</a>
             <ul class="dropdown">
               <li><a href="piDayRun.php#registration">Registration</a></li>
               <li><a href="piDayRun.php#details">Details</a></li>
               <li><a href="piDayRun.php#sponsors">Sponsors</a></li>
             </ul>
-          </li>
+          </li> -->
           <li class="has-dropdown">
             <a href="index.php#about">About</a>
             <ul class="dropdown">

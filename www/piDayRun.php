@@ -46,10 +46,15 @@
                 <p><b>9:30 AM</b> | 3.14 mile race starts! </p>
                 <p><b>FINISH</b> | Prizes &amp; pie </p>
                 <center>
-                    <a href="https://www.facebook.com/events/196533064035982/"><img src="img/PiDay/facebook-event-button.png"></a>
+                    <a href="https://www.facebook.com/events/1727225987497340/"><img src="img/PiDay/facebook-event-button.png"></a>
                 </center>
                 <br>
                 Check out some <a href="http://tbp.mccormick.northwestern.edu/photo.php#nanogallery/gallery/6133745722049462929">photos from last year's run</a></p>
+                <br>
+            <h5><b>ROUTE</b></h5>
+                <a href="http://www.mapmyrun.com/routes/view/1004518925">View the race route here!
+                </a>
+
             </div>
             <div class="large-6 sm-12 columns">
                 <br>
@@ -60,6 +65,7 @@
                 </a>
                 </center>
             </div>
+        </div>
     </div>
     <br>
     <div class="row" id="sponsors">
@@ -71,6 +77,7 @@
             <a href="http://www.lepeep.com/"><img src="img/PiDay/lePeepLogo.png" width="15%"></a>
             <a href="http://www.potbelly.com/Evanston"><img src="img/PiDay/potbellyLogo.jpg" width="15%"></a>
             <a href="http://www.olivemountainrestaurant.com/"><img src="img/PiDay/oliveMtnLogo.png" width="18%"></a>
+            <a href="http://www.roadid.com/"><img src="img/PiDay/roadIDLogo.gif" width ="30%"></a>
             </center>
     </div>
     <br>

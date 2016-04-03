@@ -3,6 +3,29 @@
 	include "header.php"; ?>
 	
 <div class="events">
+
+<!-- 
+	<div class="row">
+    	<div class="large-12">
+			<br>
+			<h1>Spring 2016 Events</h1>
+			<br>
+		</div>
+	</div>
+	<div class="row">
+		<div class="large-6 sm-12 columns">
+			<h2><b><u>Private TBP Events</u></b></h2>
+			<div class="private-event">
+				<h4>Spring Initiation</h4>
+				<p> June TBD | Time TBD | Location TBD </p>
+			</div>
+		</div>
+		<div class="large-6 sm-12 columns">
+			<h2><b><u>Open TBP Events</u></b></h2>
+		</div>
+	</div>
+ -->
+	
 	<div class="row">
     	<div class="large-12">
 			<br>

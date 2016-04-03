@@ -53,16 +53,6 @@
 		          </div>
 	          </div>
 	          <div class="large-4 medium-4 small-12 columns">
-		          <img src="img/people/SarahClark.jpg">
-		          <div class="panel">
-		          	<p><a href="mailto:clark.sarah315@gmail.com?subject=Tau Beta Pi Inquiry"><b>Sarah Clark</b></a></p>
-		          	<p><b>PhD Candidate</b></p>
-		          	<p>Department of Materials Science & Engineering</p>
-		          </div>
-	          </div>
-	        </div>
-	        <div class="row"> 
-	          <div class="large-4 medium-4 small-12 columns">
 		          <img src="img/people/ParagGupta.jpg">
 		          <div class="panel">
 		          	<p><a href="mailto:paragguptaphd@gmail.com?subject=Tau Beta Pi Inquiry"><b>Parag Gupta </b></a></p>
@@ -70,8 +60,19 @@
 		          	<p>Department of Mechanical Engineering</p>
 		          </div>
 	          </div>
-	          <br>
+	          <!-- <div class="large-4 medium-4 small-12 columns">
+		          <img src="img/people/SarahClark.jpg">
+		          <div class="panel">
+		          	<p><a href="mailto:clark.sarah315@gmail.com?subject=Tau Beta Pi Inquiry"><b>Sarah Clark</b></a></p>
+		          	<p><b>PhD Candidate</b></p>
+		          	<p>Department of Materials Science & Engineering</p>
+		          </div>
+	          </div> -->
 	        </div>
+	       <!--  <div class="row"> 
+	          
+	          <br>
+	        </div> -->
         </div>
 	</div>
 </div>
